@@ -13,7 +13,7 @@
              {"date":"18th June 2021","price":1300,"status":"In Progress"},
              {"date":"29th June 2021","price":2100,"status":"completed"},
              {"date":"18th July 2021","price":1200,"status":"completed"},
-             {"date":"11th June 2021","price":1600,"status":"In Progress"},
+             {"date":"11th June 2021","price":1600,"status":"In Progress"}
 ],          
     "profile": {
     "name": "typicode"

@@ -7,7 +7,13 @@
              {"date":"11th June 2021","price":1600,"status":"In Progress"},
              {"date":"30th june 2021","price":900,"status":"In Progress"},
              {"date":"5th July 2021","price":1600,"status":"completed"},
-             {"date":"7th june 2021","price":850,"status":"In Progress"}
+             {"date":"7th june 2021","price":850,"status":"In Progress"},
+             {"date":"23rd June 2021","price":2300,"status":"In Progress"},
+             {"date":"12th July 2020","price":1800,"status":"completed"},
+             {"date":"18th June 2021","price":1300,"status":"In Progress"},
+             {"date":"29th June 2021","price":2100,"status":"completed"},
+             {"date":"18th July 2021","price":1200,"status":"completed"},
+             {"date":"11th June 2021","price":1600,"status":"In Progress"},
 ],          
     "profile": {
     "name": "typicode"
